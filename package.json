@@ -1,5 +1,5 @@
 {
-  "name": "tranmission-auto-hlink",
+  "name": "transmission-auto-hlink",
   "version": "1.0.0",
   "description": "tranmission下载完成消息通知 & 自动硬链接",
   "keywords": [
