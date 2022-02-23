@@ -1,0 +1,26 @@
+{
+  "name": "tranmission-auto-hlink",
+  "version": "1.0.0",
+  "description": "tranmission下载完成消息通知 & 自动硬链接",
+  "keywords": [
+    "transmission",
+    "hlink",
+    "sendNotify"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charmingYouYou",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^10.0.0",
+    "got": "11",
+    "hlink": "^0.4.2",
+    "querystring": "^0.2.1",
+    "tough-cookie": "^4.0.0",
+    "tunnel": "^0.0.6"
+  }
+}
