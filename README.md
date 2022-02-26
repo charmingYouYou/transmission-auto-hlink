@@ -6,7 +6,6 @@
 
 * 支持Transmission种子下载完成后自动硬链接(限文件夹)
 
-
 ### 使用方式
 
 1. 下载本项目
@@ -91,8 +90,9 @@
       则transmission web control配置为`/volume3/备份/transmission-auto-hlink/index.sh`
       ```
 
-      
-
       ![img](https://charmingyouyou-1256314320.file.myqcloud.com/logo/chrome_2019-01-16_10-53-39.png)
 
-   
+7. 运行结果 & 反馈
+
+   * 相关运行日志可在`/tmp/hlink.txt`中查看
+   * 运行问题有误提Issues请附上日志
